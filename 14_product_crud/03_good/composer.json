@@ -1,0 +1,15 @@
+{
+    "name": "jianjiao/03_good",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "JJJianJiao",
+            "email": "jj.jianjiao@gmail.com"
+        }
+    ],
+    "require": {}
+}

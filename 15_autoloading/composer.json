@@ -1,0 +1,17 @@
+{
+    "name": "jianjiao/15_autoloading",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./app"
+        }
+    },
+    "authors": [
+        {
+            "name": "JJJianJiao",
+            "email": "jj.jianjiao@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
